@@ -81,11 +81,11 @@ When a user adds a Google Workspace integration, the system should store:
 
 ### 4. Handle Edge Cases
 Your system should properly handle:
-✅ **API rate limits** – Backoff and retry.  
-✅ **Credential expiration** – Detect and alert the user.  
-✅ **Callback failures** – Retry failed webhook deliveries.  
-✅ **Duplicate logs** – Ensure logs are not duplicated.  
-✅ **High availability** – Ensure logs keep flowing even if one instance restarts.  
+**API rate limits** – Backoff and retry.  
+**Credential expiration** – Detect and alert the user.  
+**Callback failures** – Retry failed webhook deliveries.  
+**Duplicate logs** – Ensure logs are not duplicated.  
+**High availability** – Ensure logs keep flowing even if one instance restarts.  
 
 ---
 
