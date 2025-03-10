@@ -13,6 +13,16 @@ If you complete the challenge successfully, you’ll get a chance to talk with o
 
 ---
 
+## Tech Stack Requirements
+Your solution must be built using:
+
+- Node.js
+- Fastify (for API development)
+- MongoDB (for storing sources and logs)
+- Redis (for caching and job scheduling)
+- Elasticsearch (for log indexing) (optional but a plus)
+- Google Workspace Admin SDK (for fetching event logs)
+
 ## Requirements
 
 ### 1. Build a Secure REST API
